@@ -1,5 +1,5 @@
 
-```markdown
+```
 # MERN Stack with MySQL
 
 A full-stack web application using React (Frontend), Express.js (Backend), and MySQL (Database).
